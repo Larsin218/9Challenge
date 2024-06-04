@@ -18,3 +18,5 @@ Open the project, navigate to the dev folder in the terminal, and run npm i. Onc
 Any questions can be answered by [Larsin218] on GitHub or at [larsin.218@gmail.com].
 
 This README was generated using this project.
+
+Here is a video demonstration: https://drive.google.com/file/d/1eYtqsl04gjZDOemqMmm2CVWIpY93FiIb/view
